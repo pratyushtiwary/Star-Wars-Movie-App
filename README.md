@@ -23,3 +23,9 @@ Once installation is finished run `expo start`
 ## API Used
 
 [Star Wars Api](https://studio.apollographql.com/public/star-wars-swapi/home?variant=current)
+
+## Tests
+
+To run tests, open cmd/terminal and type `npm test`
+
+Currently there is only 1 test written 😅

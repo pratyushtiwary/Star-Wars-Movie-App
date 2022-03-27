@@ -29,3 +29,7 @@ Once installation is finished run `expo start`
 To run tests, open cmd/terminal and type `npm test`
 
 Currently there is only 1 test written 😅
+
+## Build
+
+[Download App](https://drive.google.com/file/d/1Bq7hFItZK2pIwFBYEMmBrXVGQZCt8fQb/view?usp=sharing)
